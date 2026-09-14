@@ -12,9 +12,9 @@ One of the apps I worked on is on the [App Store](https://apps.apple.com/vn/app/
 
 Right now my week splits roughly three ways:
 
-- **Mobile.** Flutter, mostly around location and sensors. Keeping GPS alive in the background on iOS without the system killing you is its own small discipline, and I've learned most of it by getting it wrong first.
+- **Mobile.** Flutter
 - **Backend.** Go services running on Cloud Run with Cloud SQL behind them. REST APIs, auth, the unglamorous parts that everything else depends on.
-- **Web.** TypeScript and React for internal tools — admin consoles, dashboards, the screens people actually stare at all day.
+- **Web.** TypeScript and React for internal tools.
 
 ### How I work
 
