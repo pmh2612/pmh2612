@@ -12,9 +12,13 @@ One of the apps I worked on is on the [App Store](https://apps.apple.com/vn/app/
 
 Right now my week splits roughly three ways:
 
-- **Mobile.** Flutter
+- **Mobile.** Flutter.
 - **Backend.** Go services running on Cloud Run with Cloud SQL behind them. REST APIs, auth, the unglamorous parts that everything else depends on.
 - **Web.** TypeScript and React for internal tools.
+
+### What I enjoy
+
+Digging into hard problems that come from the real world rather than from a textbook. The interesting ones usually don't announce themselves — they show up as a crash nobody can reproduce, a number that's slightly wrong, a feature that works everywhere except one phone. Taking something like that apart until I understand exactly why it happens is the part of this job I'd do for free.
 
 ### How I work
 
