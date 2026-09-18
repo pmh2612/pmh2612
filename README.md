@@ -33,7 +33,7 @@ University projects, mostly fullstack: an IoT home automation dashboard with liv
 
 ### Tools
 
-`Go` · `Flutter / Dart` · `TypeScript` · `React` · `PostgreSQL` · `Docker` · `GCP` · `Git`
+`C++` · `Python` · `Go` · `Flutter / Dart` · `TypeScript` · `React` · `PostgreSQL` · `Docker` · `GCP` · `Git`
 
 I also spend more time than is strictly reasonable configuring my editor and shell.
 
